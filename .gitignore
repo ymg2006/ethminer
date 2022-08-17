@@ -37,8 +37,8 @@ build.*/
 extdep/install
 extdep/download
 /cmake-build-*/
-cmake/cable
-cmake/ethash
+/cmake/cable
+/cmake/ethash
 
 *.pyc
 
