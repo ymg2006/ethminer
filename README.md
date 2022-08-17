@@ -1,12 +1,10 @@
-# ethminer
+# ethminer (etchash)
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)][Gitter]
-[![Releases](https://img.shields.io/github/downloads/ethereum-mining/ethminer/total.svg)][Releases]
 
-> Ethereum miner with OpenCL, CUDA and stratum support
-
-**Ethminer** is an Ethash GPU mining worker: with ethminer you can mine every coin which relies on an Ethash Proof of Work thus including Ethereum, Ethereum Classic, Metaverse, Musicoin, Ellaism, Pirl, Expanse and others. This is the actively maintained version of ethminer. It originates from [cpp-ethereum] project (where GPU mining has been discontinued) and builds on the improvements made in [Genoil's fork]. See [FAQ](#faq) for more details.
+> Ethereum Classic miner with OpenCL, CUDA and stratum support
+## ETCHASH (classic mainnet)
+This fork of ethminer is modifed for Ethereum Classics etchash activated by thanos on mainnet block 11700000.
 
 ## Features
 
